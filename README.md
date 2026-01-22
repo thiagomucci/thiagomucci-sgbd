@@ -9,7 +9,7 @@
 ## Who am I?
 
 🎓 Informatics student at IFMS  
-🛡️ Contributor to FreeBSD, security and network projects  
+🛡️ Contributor to FreeBSD, security and network personal projects  
 💻 Experience with Linux, C, Python, and automation  
 🚀 Developing backend for school projects  
 
