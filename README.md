@@ -2,21 +2,15 @@
 
 # Informatics Student at IFMS
 
-FreeBSD Enthusiast | Studying OS Internals, Security & Networks
-
-
-
 ## Who am I?
 
 🎓 Informatics student at IFMS  
-🛡️ FreeBSD user with strong interest in operating system internals, security, and networking  
 💻 Experience with Linux, C, Python, and automation  
 🚀 Developing backend and systems-oriented projects
 
 
 ## Technologies & Tools
 
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
