@@ -27,3 +27,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-mucci-15195938a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagomucci)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.mucci@estudante.ifms.edu.br)
+
+---
+
+> Ah Love! could you and I with Fate conspire,
+> To grasp this sorry Scheme of Things entire,
+> Would not we shatter it to bits — and then
+> Re-mould it nearer to the Heart's Desire!
